@@ -5,11 +5,17 @@ body{
     background-color: rgb(247, 237, 219);
 }
 .container{
-    width: 800px;
+    width: 700px;
     background-color: #0d5c63;
-    margin-left: 450px;
+    margin-left: 250px;
     margin-top: 300px;
     border-radius: 10px;
+}
+.social media ul{
+    background-color: black;
+    
+    padding:30px;
+    align-items: flex-end;
 }
 h2 {
     font-weight: bolder;
